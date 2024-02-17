@@ -1,0 +1,14 @@
+h1{
+    text-align:center;
+    border:2px solid black ;
+    color:gold;
+    background-color:purple;
+    position:relative;
+    bottom:20px ;
+
+   }
+  body{
+    background-image:url("./house7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

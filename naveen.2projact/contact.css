@@ -1,0 +1,15 @@
+h1{
+    text-align:center;
+    border:2px solid black;
+    color:aqua;
+    background-color:coral;
+    bottom:50px;
+    position: relative;
+    bottom:20px ;
+    
+  }
+body{
+    background-image:url("./rajesh.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}  

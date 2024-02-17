@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+    border:2px solid black;
+    color:blueviolet;
+    background-color: chartreuse;
+    position:relative;
+    bottom:20px ;
+  }
+body{
+    background-image:url("./lokesh.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}  

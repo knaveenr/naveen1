@@ -1,0 +1,23 @@
+a{
+   text-align:center;
+   text-decoration:none;
+   position:relative;
+   bottom:50px; 
+   left:400px;
+   padding:30px;
+   font-size:20px;
+   color:purple;
+   background-color:gold;
+   }
+img{
+    width:100px;
+    height:100px;
+    position:relative;
+    right:400px;
+    border-radius:50%;
+   }
+body{
+    background-image:url("./baskar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
